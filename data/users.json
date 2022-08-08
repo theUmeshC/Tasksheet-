@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "Name": "umesh",
+      "Email": "UCCUMESH9@GMAIL.COM",
+      "Password": "ioiioiooio",
+      "Gender": "Male",
+      "id": 1
+    },
+    {
+      "Name": "Amogh",
+      "Email": "amogh@gmail.com",
+      "Password": "ioiifdgsh",
+      "Gender": "Male",
+      "id": 2
+    },
+    {
+      "userName": "rgd",
+      "mailid": "gsg@gmail.com",
+      "password": "dfhsdh",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "userName": "adsga",
+      "mailid": "dgg@gmail.com",
+      "password": "sadgag",
+      "gender": "Male",
+      "id": 4
+    },
+    {
+      "userName": "fjasg",
+      "mailid": "aasdg@gmail.com",
+      "password": "dsgas",
+      "gender": "Male",
+      "id": 5
+    },
+    {
+      "userName": "hgfshs",
+      "mailid": "gafdhdfh@gmail.com",
+      "password": "ahhdh",
+      "gender": "Male",
+      "id": 6
+    },
+    {
+      "userName": "vsadga",
+      "mailid": "sdgasgg@gmail.com",
+      "password": "sgadg",
+      "gender": "Male",
+      "id": 7
+    },
+    {
+      "userName": "DGsdg",
+      "mailid": "GDGG@gmail.com",
+      "password": "DSGS",
+      "gender": "Male",
+      "id": 8
+    }
+  ]
+}
